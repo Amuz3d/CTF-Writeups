@@ -25,6 +25,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-02-04 | **Blackfield** | HTB | Hard | Windows, Active Directory Enumeration, RID Brute Force, LDAP/SMB Null Sessions, Kerberos Attacks, AS-REP Roasting | [View](./HackTheBox/Blackfield.md) |
 | 2026-02-04 | **Bashed** | HTB | Easy | Linux, Webshell, Sudo, CronJob, Python, phpbash | [View](./HackTheBox/Bashed.md) |
 | 2026-02-01 | **Flight** | HTB | Medium | Windows, Active Directory, NTLM-Theft, Responder, Rubeus, Kerberos Delegation | [View](./HackTheBox/Flight.md) |
 | 2026-01-06 | **Resolute** | HTB | Easy/Medium | Windows, Active Directory, Password Spraying, DNSAdmins | [View](./HackTheBox/Resolute.md) |
