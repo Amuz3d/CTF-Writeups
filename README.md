@@ -25,6 +25,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-02-12 | **Boardlight** | HTB | Easy | Nmap, FFUF, Dolibarr Exploitation, Credential Reuse, SUID Binaries, CVE-2022-37706 | [View](./HackTheBox/Boardlight.md) |
 | 2026-02-04 | **Blackfield** | HTB | Hard | Windows, Active Directory Enumeration, RID Brute Force, LDAP/SMB Null Sessions, Kerberos Attacks, AS-REP Roasting | [View](./HackTheBox/Blackfield.md) |
 | 2026-02-04 | **Bashed** | HTB | Easy | Linux, Webshell, Sudo, CronJob, Python, phpbash | [View](./HackTheBox/Bashed.md) |
 | 2026-02-01 | **Flight** | HTB | Medium | Windows, Active Directory, NTLM-Theft, Responder, Rubeus, Kerberos Delegation | [View](./HackTheBox/Flight.md) |
