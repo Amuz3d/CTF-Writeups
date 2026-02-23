@@ -1,6 +1,6 @@
 CTF-Writeups
 
-![Machines Completed](https://img.shields.io/badge/Machines%29Completed-25-brightgreen?style=for-the-badge)
+![Machines Completed](https://img.shields.io/badge/Machines%29Completed-29-orange?style=for-the-badge)
 
 [THM Rank]<img src="https://tryhackme-badges.s3.amazonaws.com/RushedOne.png" alt="Your Image Badge" />
 
