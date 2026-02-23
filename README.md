@@ -1,10 +1,8 @@
 CTF-Writeups
 
-![Machines Completed](https://img.shields.io/badge/Machines%29Completed-29-orange?style=for-the-badge)
-
-![THM Rank]<img src="https://tryhackme-badges.s3.amazonaws.com/RushedOne.png" alt="Your Image Badge" />
-
-![HTB Status](https://img.shields.io/badge/HackTheBox-Member-97ca00?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Machines Completed](https://img.shields.io/badge/Machines%20Completed-25-brightgreen?style=for-the-badge)
+![THM Rank](https://img.shields.io/badge/Platform-TryHackMe-blue?style=for-the-badge&logo=tryhackme)
+![HTB Rank](https://img.shields.io/badge/Platform-HackTheBox-green?style=for-the-badge&logo=hackthebox)
 
 Welcome to my collection of Capture The Flag (CTF) writeups. This repository serves as a dual-purpose project: a personal archive of my growth in cybersecurity and a structured learning resource for others. My current goal is to get OSCP certified.
 This list of machines are all on the Lain Kusanagi list of recommended boxes for the OSCP.
