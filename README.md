@@ -2,7 +2,7 @@ CTF-Writeups
 
 ![Machines Completed](https://img.shields.io/badge/Machines%29Completed-29-orange?style=for-the-badge)
 
-[THM Rank]<img src="https://tryhackme-badges.s3.amazonaws.com/RushedOne.png" alt="Your Image Badge" />
+![THM Rank]<img src="https://tryhackme-badges.s3.amazonaws.com/RushedOne.png" alt="Your Image Badge" />
 
 ![HTB Status](https://img.shields.io/badge/HackTheBox-Member-97ca00?style=for-the-badge&logo=hackthebox&logoColor=white)
 
