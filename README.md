@@ -1,6 +1,7 @@
 CTF-Writeups
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3731939" style='border:none;'></iframe>
+![Machines Completed](https://img.shields.io/badge/Machines%20Completed-29-brightgreen?style=for-the-badge&logo=hackthebox)
+[THM Rank]<img src="https://tryhackme-badges.s3.amazonaws.com/RushedOne.png" alt="Your Image Badge" />
 
 
 Welcome to my collection of Capture The Flag (CTF) writeups. This repository serves as a dual-purpose project: a personal archive of my growth in cybersecurity and a structured learning resource for others. My current goal is to get OSCP certified.
