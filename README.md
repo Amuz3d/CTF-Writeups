@@ -1,6 +1,6 @@
 CTF-Writeups
 
-![Machines Completed](https://img.shields.io/badge/Machines%20Completed-25-brightgreen?style=for-the-badge)
+![Machines Completed](https://img.shields.io/badge/Machines%20Completed-29-brightgreen?style=for-the-badge)
 ![THM Rank](https://img.shields.io/badge/Platform-TryHackMe-blue?style=for-the-badge&logo=tryhackme)
 ![HTB Rank](https://img.shields.io/badge/Platform-HackTheBox-green?style=for-the-badge&logo=hackthebox)
 
