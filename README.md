@@ -2,6 +2,7 @@ CTF-Writeups
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3731939" style='border:none;'></iframe>
 
+
 Welcome to my collection of Capture The Flag (CTF) writeups. This repository serves as a dual-purpose project: a personal archive of my growth in cybersecurity and a structured learning resource for others. My current goal is to get OSCP certified.
 This list of machines are all on the Lain Kusanagi list of recommended boxes for the OSCP.
 
