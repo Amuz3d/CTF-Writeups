@@ -40,7 +40,10 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-02-26 | **Kenobi** | THB | Easy | Nmap, SMB Enumeration, ProFTPD `mod_copy` exploitation, NFS Mounting, SUID Path Hijacking | [View](./HackTheBox/Kenobi.md) |
+| 2026-02-24 | **Blueprint** | THM | Easy | Nmap, NetExec, osCommerce Exploitation, PHP Code Injection, Certutil, Mimikatz, NTLM Hash Dumping | [View](./TryHackMe/Blueprint.md) |
+| 2026-02-23 | **Anthem** | THM | Easy | Nmap, Gobuster, OSINT (Credential Guessing), RDP, Windows File Permissions (`icacls`), Umbraco CMS | [View](./TryHackMe/Anthem.md) |
+| 2026-02-26 | **CmesS** | THM | Easy | Subdomain Fuzzing (`ffuf`), Gila CMS Exploitation, PHP Reverse Shell, Wildcard Exploitation (`tar`), Linux Privilege Escalation | [View](./TryHackMe/CmesS.md) |
+| 2026-02-26 | **Kenobi** | THM | Easy | Nmap, SMB Enumeration, ProFTPD `mod_copy` exploitation, NFS Mounting, SUID Path Hijacking | [View](./TryHackMe/Kenobi.md) |
 | 2026-02-19 | **Broker** | HTB | Easy | ActiveMQ Exploitation, CVE-2023-46604, Nginx Sudo Abuse, Arbitrary File Read, OpenWire Protocol | [View](./HackTheBox/Broker.md) |
 | 2026-02-14 | **Bounty** | HTB | Easy | IS Short Filename Enumeration (`Shortscan`), `web.config` ASP Injection, Nishang, JuicyPotato (Abusing `SeImpersonatePrivilege`) | [View](./HackTheBox/Bounty.md) |
 | 2026-02-12 | **Boardlight** | HTB | Easy | Nmap, FFUF, Dolibarr Exploitation, Credential Reuse, SUID Binaries, CVE-2022-37706 | [View](./HackTheBox/Boardlight.md) |
