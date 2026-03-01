@@ -40,6 +40,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-01-18 | **Timelapse** | HTB | Easy |  ActiveDirectory, LAPS, PFX, WinRM, PowerShellHistory, SMB-Null-Session | [View](./HackTheBox/Timelapse.md) |
 | 2026-02-24 | **Blueprint** | THM | Easy | Nmap, NetExec, osCommerce Exploitation, PHP Code Injection, Certutil, Mimikatz, NTLM Hash Dumping | [View](./TryHackMe/Blueprint.md) |
 | 2026-02-23 | **Anthem** | THM | Easy | Nmap, Gobuster, OSINT (Credential Guessing), RDP, Windows File Permissions (`icacls`), Umbraco CMS | [View](./TryHackMe/Anthem.md) |
 | 2026-02-26 | **CmesS** | THM | Easy | Subdomain Fuzzing (`ffuf`), Gila CMS Exploitation, PHP Reverse Shell, Wildcard Exploitation (`tar`), Linux Privilege Escalation | [View](./TryHackMe/CmesS.md) |
