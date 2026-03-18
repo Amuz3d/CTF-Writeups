@@ -40,6 +40,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-03-18 | **Wreath** | THM | Hard | Ligolo-ng (TUN-based pivoting), CVE-2019-15107 (Webmin RCE), Polyglot JPEG Web Shells,  Mimikatz, Pass-the-Hash (PtH), Local group manipulation | [View](./TryHackMe/Wreath.md) |
 | 2026-02-24 | **RootME** | THM | Easy | nmap, gobuster, File Upload Bypass (Extension Filtering), SUID Exploitation, Python GTFOBins | [View](./TryHackMe/RootMe.md) |
 | 2026-01-18 | **Timelapse** | HTB | Easy |  ActiveDirectory, LAPS, PFX, WinRM, PowerShellHistory, SMB-Null-Session | [View](./HackTheBox/Timelapse.md) |
 | 2026-02-24 | **Blueprint** | THM | Easy | Nmap, NetExec, osCommerce Exploitation, PHP Code Injection, Certutil, Mimikatz, NTLM Hash Dumping | [View](./TryHackMe/Blueprint.md) |
