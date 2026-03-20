@@ -2,16 +2,16 @@ CTF-Writeups
 
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Total%20Progress-36%20%2F%20109-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
+  <img src="https://img.shields.io/badge/Total%20Progress-37%20%2F%20109-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-18%20%2F%2070-97ca00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Progress"> 
-  <img src="https://img.shields.io/badge/TryHackMe-18%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
+  <img src="https://img.shields.io/badge/TryHackMe-19%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
 </p>
 
 <p align="center"> 
-  <img src="https://geps.dev/progress/33?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
+  <img src="https://geps.dev/progress/34?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
 </p>
 
 Welcome to my collection of Capture The Flag (CTF) writeups. This repository serves as a dual-purpose project: a personal archive of my growth in cybersecurity and a structured learning resource for others. My current goal is to get OSCP certified.
@@ -40,6 +40,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-03-19 | **Boiler** | THM | Medium | SUID Exploitation (find), sar2html RCE (CVE-2019-15107), Anonymous FTP, ROT13, Information Disclosure | [View](./TryHackMe/Boiler.md) |
 | 2026-03-18 | **Buff** | HTB | Easy | Gym Management System 1.0 (RCE), Chisel (Reverse Port Forwarding), CloudMe 1.11.2 (Buffer Overflow), Msfvenom (Shellcode), Netcat | [View](./HackTheBox/Buff.md) |
 | 2026-03-18 | **Wreath** | THM | Hard | Ligolo-ng (TUN-based pivoting), CVE-2019-15107 (Webmin RCE), Polyglot JPEG Web Shells,  Mimikatz, Pass-the-Hash (PtH), Local group manipulation | [View](./TryHackMe/Wreath.md) |
 | 2026-02-24 | **RootME** | THM | Easy | nmap, gobuster, File Upload Bypass (Extension Filtering), SUID Exploitation, Python GTFOBins | [View](./TryHackMe/RootMe.md) |
