@@ -40,6 +40,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-03-23 | **Poison** | HTB | Medium |  Information Disclosure, Base64 Decoding, SSH Access, Local Enumeration, VNC Exploitation | [View](./HackTheBox/Poison.md) |
 | 2026-03-23 | **Game Zone** | THM | Hard |  SQL Injection (Auth Bypass) , Database Dumping , Hash Cracking (SHA256) , Local Port Forwarding , Remote Command Execution (RCE) | [View](./TryHackMe/Game_Zone.md) |
 | 2026-03-22 | **Attacking Kerberos** | THM | Hard | AS-REP Roasting, Kerberoasting, Ticket Harvesting, Golden Ticket Forgery, Skeleton Key Injection | [View](./TryHackMe/Attacking_Kerberos.md) |
 | 2026-03-19 | **Boiler** | THM | Medium | SUID Exploitation (find), sar2html RCE (CVE-2019-15107), Anonymous FTP, ROT13, Information Disclosure | [View](./TryHackMe/Boiler.md) |
