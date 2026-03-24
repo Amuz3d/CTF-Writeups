@@ -2,16 +2,16 @@ CTF-Writeups
 
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Total%20Progress-43%20%2F%20109-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
+  <img src="https://img.shields.io/badge/Total%20Progress-44%20%2F%20109-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-18%20%2F%2070-97ca00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Progress"> 
-  <img src="https://img.shields.io/badge/TryHackMe-25%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
+  <img src="https://img.shields.io/badge/TryHackMe-26%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
 </p>
 
 <p align="center"> 
-  <img src="https://geps.dev/progress/39?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
+  <img src="https://geps.dev/progress/40?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
 </p>
 
 Welcome to my collection of Capture The Flag (CTF) writeups. This repository serves as a dual-purpose project: a personal archive of my growth in cybersecurity and a structured learning resource for others. My current goal is to get OSCP certified.
@@ -40,6 +40,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-03-24 | **Skynet** | THM | Easy |  SMB Enumeration, Web Directory Brute-forcing, Brute-forcing (Hydra), Local File Inclusion (LFI), Remote Code Execution (RCE), Kernel Exploitation (OverlayFS) | [View](./TryHackMe/Skynet.md) |
 | 2026-03-24 | **Thompson** | THM | Easy |  Web Enumeration, Tomcat Manager Exploitation, WAR Payload Deployment, Shell Stabilization, SUID Binary Creation, Cron Job Exploitation | [View](./TryHackMe/Thompson.md) |
 | 2026-03-24 | **Reset** | THM | Hard |  Active Directory Enumeration, Password Reset Exploitation, User Delegation, BloodHound Analysis, Remote Desktop Protocol (RDP) | [View](./TryHackMe/Reset.md) |
 | 2026-03-23 | **Poison** | HTB | Medium |  Information Disclosure, Base64 Decoding, SSH Access, Local Enumeration, VNC Exploitation | [View](./HackTheBox/Poison.md) |
