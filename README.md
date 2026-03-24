@@ -2,16 +2,16 @@ CTF-Writeups
 
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Total%20Progress-41%20%2F%20109-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
+  <img src="https://img.shields.io/badge/Total%20Progress-42%20%2F%20109-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-18%20%2F%2070-97ca00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Progress"> 
-  <img src="https://img.shields.io/badge/TryHackMe-23%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
+  <img src="https://img.shields.io/badge/TryHackMe-24%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
 </p>
 
 <p align="center"> 
-  <img src="https://geps.dev/progress/38?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
+  <img src="https://geps.dev/progress/39?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
 </p>
 
 Welcome to my collection of Capture The Flag (CTF) writeups. This repository serves as a dual-purpose project: a personal archive of my growth in cybersecurity and a structured learning resource for others. My current goal is to get OSCP certified.
@@ -40,6 +40,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-03-24 | **Reset** | THM | Hard |  Active Directory Enumeration, Password Reset Exploitation, User Delegation, BloodHound Analysis, Remote Desktop Protocol (RDP) | [View](./TryHackMe/Reset.md) |
 | 2026-03-23 | **Poison** | HTB | Medium |  Information Disclosure, Base64 Decoding, SSH Access, Local Enumeration, VNC Exploitation | [View](./HackTheBox/Poison.md) |
 | 2026-03-23 | **Game Zone** | THM | Hard |  SQL Injection (Auth Bypass) , Database Dumping , Hash Cracking (SHA256) , Local Port Forwarding , Remote Command Execution (RCE) | [View](./TryHackMe/Game_Zone.md) |
 | 2026-03-22 | **Attacking Kerberos** | THM | Hard | AS-REP Roasting, Kerberoasting, Ticket Harvesting, Golden Ticket Forgery, Skeleton Key Injection | [View](./TryHackMe/Attacking_Kerberos.md) |
