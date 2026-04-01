@@ -40,6 +40,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-03-24 | **Daily Bugle** | THM | Hard |  CMS Enumeration (Joomla), SQL Injection, Password Cracking (bcrypt), SSH Access, Privilege Escalation (GTFOBins - yum) | [View](./TryHackMe/Daily_Bugle.md) |
 | 2026-03-24 | **Skynet** | THM | Easy |  SMB Enumeration, Web Directory Brute-forcing, Brute-forcing (Hydra), Local File Inclusion (LFI), Remote Code Execution (RCE), Kernel Exploitation (OverlayFS) | [View](./TryHackMe/Skynet.md) |
 | 2026-03-24 | **Thompson** | THM | Easy |  Web Enumeration, Tomcat Manager Exploitation, WAR Payload Deployment, Shell Stabilization, SUID Binary Creation, Cron Job Exploitation | [View](./TryHackMe/Thompson.md) |
 | 2026-03-24 | **Reset** | THM | Hard |  Active Directory Enumeration, Password Reset Exploitation, User Delegation, BloodHound Analysis, Remote Desktop Protocol (RDP) | [View](./TryHackMe/Reset.md) |
