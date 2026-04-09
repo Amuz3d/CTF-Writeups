@@ -2,16 +2,16 @@ CTF-Writeups
 
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Total%20Progress-47%20%2F%2095-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
+  <img src="https://img.shields.io/badge/Total%20Progress-48%20%2F%2095-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-19%20%2F%2056-97ca00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Progress"> 
-  <img src="https://img.shields.io/badge/TryHackMe-28%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
+  <img src="https://img.shields.io/badge/TryHackMe-29%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
 </p>
 
 <p align="center"> 
-  <img src="https://geps.dev/progress/49?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
+  <img src="https://geps.dev/progress/50?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
 </p>
 
 Welcome to my collection of Capture The Flag (CTF) writeups. This repository serves as a dual-purpose project: a personal archive of my growth in cybersecurity and a structured learning resource for others. My current goal is to get OSCP certified.
@@ -40,7 +40,8 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-04-081 | **Wonderland** | THM | Medium | Web Enumeration (Recursive Pathing), Python Library Hijacking, SSH Key Management, Linux Capabilities (setuid), Path Hijacking | [View](./TryHackMe/Wonderland.md) |
+| 2026-04-09 | **Zeno** | THM | Medium | Web Enumeration, Broken Exploit Debugging, Information Disclosure (/etc/fstab), Systemd Service Misconfiguration, Persistence via sudoers | [View](./TryHackMe/Zeno.md) |
+| 2026-04-08 | **Wonderland** | THM | Medium | Web Enumeration (Recursive Pathing), Python Library Hijacking, SSH Key Management, Linux Capabilities (setuid), Path Hijacking | [View](./TryHackMe/Wonderland.md) |
 | 2026-04-01 | **Tomghost** | THM | Easy |  AJP Protocol Exploitation (Ghostcat), GPG Decryption, SSH Access, Privilege Escalation (GTFOBins - zip) | [View](./TryHackMe/Tomghost.md) |
 | 2026-04-01 | **Daily Bugle** | THM | Hard |  CMS Enumeration (Joomla), SQL Injection, Password Cracking (bcrypt), SSH Access, Privilege Escalation (GTFOBins - yum) | [View](./TryHackMe/Daily_Bugle.md) |
 | 2026-03-24 | **Skynet** | THM | Easy |  SMB Enumeration, Web Directory Brute-forcing, Brute-forcing (Hydra), Local File Inclusion (LFI), Remote Code Execution (RCE), Kernel Exploitation (OverlayFS) | [View](./TryHackMe/Skynet.md) |
