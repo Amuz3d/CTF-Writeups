@@ -2,16 +2,16 @@ CTF-Writeups
 
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Total%20Progress-50%20%2F%2095-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
+  <img src="https://img.shields.io/badge/Total%20Progress-51%20%2F%2095-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-19%20%2F%2056-97ca00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Progress"> 
-  <img src="https://img.shields.io/badge/TryHackMe-31%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
+  <img src="https://img.shields.io/badge/TryHackMe-32%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
 </p>
 
 <p align="center"> 
-  <img src="https://geps.dev/progress/53?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
+  <img src="https://geps.dev/progress/54?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
 </p>
 
 Welcome to my collection of Capture The Flag (CTF) writeups. This repository serves as a dual-purpose project: a personal archive of my growth in cybersecurity and a structured learning resource for others. My current goal is to get OSCP certified.
@@ -40,6 +40,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-04-29 | **Year of the Owl** | THM | Hard | SNMP Enumeration, Password Brute-forcing, WinRM Exploitation, Hidden Directory Discovery (gci -path), SAM/SYSTEM Backup Extraction, Pass-the-Hash (PtH) | [View](./TryHackMe/Year_of_the_Owl.md) |
 | 2026-04-19 | **Ultratech** | THM | Medium | API Enumeration, Command Injection, Hash Cracking (MD5), Docker Group Privilege Escalation (GTFOBins) | [View](./TryHackMe/Ultratech.md) |
 | 2026-04-16 | **Internal** | THM | Hard | WordPress Brute-forcing, Reverse Shells, Docker Pivoting (Jenkins), Information Disclosure, SSH Password Authentication | [View](./TryHackMe/Internal.md) |
 | 2026-04-09 | **Zeno** | THM | Medium | Web Enumeration, Broken Exploit Debugging, Information Disclosure (/etc/fstab), Systemd Service Misconfiguration, Persistence via sudoers | [View](./TryHackMe/Zeno.md) |
