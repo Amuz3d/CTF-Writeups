@@ -8,7 +8,7 @@
     
 - **Platform:** TryHackMe
     
-- **Date:** 2023-06-29
+- **Date:** 2026-05-15
     
 - **Difficulty:** Hard
     
