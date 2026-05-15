@@ -2,16 +2,16 @@ CTF-Writeups
 
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Total%20Progress-55%20%2F%2095-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
+  <img src="https://img.shields.io/badge/Total%20Progress-56%20%2F%2095-brightgreen?style=for-the-badge&logo=target" alt="Total Progress"> 
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-19%20%2F%2056-97ca00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Progress"> 
-  <img src="https://img.shields.io/badge/TryHackMe-36%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
+  <img src="https://img.shields.io/badge/TryHackMe-37%20%2F%2039-0069ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Progress"> 
 </p>
 
 <p align="center"> 
-  <img src="https://geps.dev/progress/58?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
+  <img src="https://geps.dev/progress/59?dangerColor=800080&warningColor=ff0000&successColor=00ff00" alt="Overall Progress"> 
 </p>
 
 Welcome to my collection of Capture The Flag (CTF) writeups. This repository serves as a dual-purpose project: a personal archive of my growth in cybersecurity and a structured learning resource for others. My current goal is to get OSCP certified.
@@ -40,6 +40,7 @@ Note: These writeups are intended for educational purposes only. Always practice
 
 | Date | Machine | Platform | Difficulty | Key Skills/Tools | Writeup |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-05-15 | **Year of the Jellyfish** | THM | Hard | Web Enumeration, Monitorr RCE, OOB Exploit Modification, Snapd Exploitation (dirty_sock), Python script debugging | [View](./TryHackMe/Year_of_the_Jellyfish.md) |
 | 2026-05-10 | **VulnNet: Active** | THM | Medium | SMB Enumeration, Redis exploitation (NTLM theft), NTLMv2 Hash Cracking, Scheduled Task hijacking (PowerShell), Local Privilege Escalation (GodPotato) | [View](./TryHackMe/VulnNet_Active.md) |
 | 2026-05-10 | **Weasel** | THM | Medium |  SMB Enumeration, Jupyter Notebook Exploitation, SSH Private Key usage, AlwaysInstallElevated Privilege Escalation | [View](./TryHackMe/Weasel.md) |
 | 2026-05-04 | **HackPark** | THM | Medium | HTTP Post-Form Brute-forcing, BlogEngine.NET Exploitation (CVE-2019-6714), Service Hijacking, Windows Enumeration | [View](./TryHackMe/HackPark.md) |
