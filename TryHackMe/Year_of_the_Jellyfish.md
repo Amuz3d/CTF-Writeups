@@ -1,6 +1,6 @@
 # CTF: Year of the Jellyfish (THM)
 
-**Target IP:** `3.249.213.107` ($target)
+**Target IP:** `10.145.120.43` ($target)
 
 ## Metadata
 
@@ -50,10 +50,10 @@ A full port scan was conducted to identify the attack surface.
 To interact with the various subdomains hosted on the target, I added the following entries to `/etc/hosts`:
 
 ```
-3.249.213.107 robyns-petshop.thm
-3.249.213.107 monitorr.robyns-petshop.thm
-3.249.213.107 beta.robyns-petshop.thm
-3.249.213.107 dev.robyns-petshop.thm
+10.145.120.43 robyns-petshop.thm
+10.145.120.43 monitorr.robyns-petshop.thm
+10.145.120.43 beta.robyns-petshop.thm
+10.145.120.43 dev.robyns-petshop.thm
 
 ```
 
@@ -118,7 +118,7 @@ I set up a listener and triggered the shell via a web request.
 **Connection Received:**
 
 ```
-connect to [10.10.x.x] from (UNKNOWN) [3.249.213.107]
+connect to [10.10.x.x] from (UNKNOWN) [10.145.120.43]
 $ whoami
 www-data
 
